@@ -1,0 +1,3 @@
+npm init 
+npm install [packagename] --save
+npm install [packagename] --save-dev
